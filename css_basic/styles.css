@@ -14,17 +14,27 @@ article {
     overflow-y: auto;
 }
 
+article img {
+    width: 100px;
+}
+
 aside {
     flex: 1;
     overflow-y: auto;
 }
 
-header {
+
+/* header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+} */
+
+header div {
+    text-align: center;
 }
 
 .logo {
     width: 80px;
+    text-align: center;
 }
