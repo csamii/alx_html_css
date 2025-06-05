@@ -48,7 +48,7 @@ You can add custom CSS to make this page beautiful. Suggested styles to include:
 
   ```
 
-* **Fonts**: Download and self-host if needed
+* **Fonts**: Downloaded fonts
 
   * [Source Sans Pro (Google Fonts)](https://fonts.google.com/specimen/Source+Sans+Pro)
   * [Spin Cycle OT](https://www.fonts.com/font/spin-cycle)
@@ -58,7 +58,7 @@ You can add custom CSS to make this page beautiful. Suggested styles to include:
 ## 📌 Notes
 
 * This project currently has no JavaScript or interactivity.
-* Styling must be implemented manually in CSS.
+* Styling was implemented manually in CSS.
 * Ideal for practicing responsive layout and typography.
 
 ---
