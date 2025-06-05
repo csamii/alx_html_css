@@ -1,0 +1,58 @@
+/* SpinCycle OT (regular) */
+
+@font-face {
+    font-family: 'SpinCycleOT';
+    src: url('./fonts/spincycle_ot.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* SpinCycle 3D OT */
+
+@font-face {
+    font-family: 'SpinCycle3DOT';
+    src: url('./fonts/spincycle_3d_ot.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Source Sans Pro - Regular */
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('./fonts/SourceSansPro-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+/* Source Sans Pro - SemiBold */
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('./fonts/SourceSansPro-Semibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+/* Source Sans Pro - Light */
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('./fonts/SourceSansPro-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+/* Source Sans Pro - Bold */
+
+@font-face {
+    font-family: 'SourceSansPro';
+    src: url('./fonts/SourceSansPro-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}

@@ -1,8 +1,6 @@
 # SmileSchool Landing Page
 
-Welcome to the **SmileSchool** landing page project — a clean, structured HTML mockup showcasing advanced layout concepts for a fictional e-learning platform focused on smiling techniques.
-
-![SmileSchool Logo](https://fakeimg.pl/250x250?text=Sample+Logo)
+Welcome to the **SmileSchool** landing page project. A clean, structured HTML mockup showcasing advanced layout concepts for a fictional e-learning platform focused on smiling techniques.
 
 ---
 
@@ -48,51 +46,6 @@ You can add custom CSS to make this page beautiful. Suggested styles to include:
 * [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) for general content
 * [Spin Cycle OT](https://www.fonts.com/font/spin-cycle) for fun headings
 
-### Suggested CSS Structure
-
-```css
-/* Example CSS snippet */
-body {
-  font-family: 'Source Sans Pro', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #fff;
-  color: #333;
-}
-
-h1, h2, h3 {
-  font-family: 'Spin Cycle OT', cursive;
-}
-
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 20px;
-}
-
-section {
-  padding: 60px 20px;
-  border-bottom: 1px solid #eaeaea;
-}
-```
-
----
-
-## 🛠 Setup Instructions
-
-1. Clone or download the repository
-2. Add a `css/style.css` file and link it in the `<head>` of `index.html`
-3. Include all necessary images in the `images/` folder
-4. Open `index.html` in your browser
-
----
-
-## 📦 External Dependencies
-
-* **Font Awesome**: For icons
-
-  ```html
-  <script src="https://kit.fontawesome.com/4a2b055604.js" crossorigin="anonymous"></script>
   ```
 
 * **Fonts**: Download and self-host if needed
@@ -112,7 +65,7 @@ section {
 
 ## ✨ Author
 
-Chidi Onwumere — [@yourhandle](#)
+Chidi Onwumere
 Passionate about accessible learning, visual storytelling, and building fun educational platforms.
 
 ---
