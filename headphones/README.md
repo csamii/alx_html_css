@@ -1,5 +1,7 @@
 Web Page Implementation Project
+
 📄 Project Overview
+
 In this project, I have implemented a fully functional web page from scratch, using only HTML, CSS, and the principles of Accessibility and Responsive Design. No external libraries or frameworks were used — this is a pure, handcrafted implementation that closely follows the provided designer file.
 
 The primary objective was to demonstrate a solid understanding of:
