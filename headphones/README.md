@@ -12,7 +12,7 @@ CSS styling and layout techniques
 
 Mobile-first responsive design
 
-Accessibility best practices (a11y)
+Accessibility best practices
 
 Clean, maintainable, and scalable code
 
