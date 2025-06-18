@@ -1,12 +1,3 @@
-// document.addEventListener("DOMContentLoaded", function () {
-//   const hamburger = document.querySelector('.hamburger');
-//   const navLinks = document.querySelector('.nav-links');
-
-//   hamburger.addEventListener('click', () => {
-//     navLinks.classList.toggle('show');
-//   });
-// });
-
 const bars = document.getElementById("bars");
 const times = document.getElementById("times");
 const navLinks = document.getElementById("nav-link");
