@@ -513,7 +513,7 @@ footer {
     .7background-box {
         text-align: center;
         padding: 0 78px;
-
+	margin-top: 100px;
     }
 
     .background-box>h6 {
